@@ -1,0 +1,278 @@
+
+.depicter-1:not(.depicter-ready){
+	height:700px;
+}
+.depicter-revert.depicter-1 .depicter-layers-wrapper{
+	padding-left:15px;
+	padding-right:15px;
+}
+.depicter-revert .depicter-1-element-30{
+	border-width:2px;
+	border-style:solid;
+	border-color:#F78678;
+	border-radius:50% 50% 50% 50%;
+}
+.depicter-revert .depicter-1-element-30:not(.depicter-hover-off){
+	transition:all ease 0.3s;
+}
+.depicter-revert .depicter-1-element-30:not(.depicter-hover-off):hover {
+	background-color:#F78678;
+}
+.depicter-1-element-30 .depicter-arrow-icon{
+	fill:#ffffff;
+	transition:all ease 0.3s;
+}
+.depicter-1-element-30:not(.depicter-hover-off):hover .depicter-arrow-icon{
+	fill:#ffffff;
+}
+.depicter-revert .depicter-1-element-31{
+	border-width:2px;
+	border-style:solid;
+	border-color:#F78678;
+	border-radius:50% 50% 50% 50%;
+}
+.depicter-revert .depicter-1-element-31:not(.depicter-hover-off){
+	transition:all ease 0.3s;
+}
+.depicter-revert .depicter-1-element-31:not(.depicter-hover-off):hover {
+	background-color:#F78678;
+}
+.depicter-1-element-31 .depicter-arrow-icon{
+	fill:#ffffff;
+	transition:all ease 0.3s;
+}
+.depicter-revert .depicter-1-element-64{
+	padding:5px 18px 5px 18px;
+	font-size:16px;
+	text-align:center;
+	color:#ffffff;
+	font-family:"Open Sans";
+	font-weight:700;
+	letter-spacing:5px;
+	direction:ltr;
+	background-color:transparent;
+	border-width:1px;
+	border-style:solid;
+	border-color:#ffffff;
+	border-radius:19px;
+}
+.depicter-revert .depicter-1-element-61{
+	font-size:16px;
+	color:#ffffff;
+	font-family:"Open Sans";
+	font-weight:300;
+}
+.depicter-revert .depicter-1-element-60{
+	font-size:60px;
+	text-align:left;
+	color:#ffffff;
+	font-family:"Open Sans";
+	font-weight:600;
+	text-transform:uppercase;
+	letter-spacing:33px;
+}
+.depicter-revert .depicter-1-element-54{
+	font-size:25px;
+	color:#ffffff;
+	font-family:"Raleway";
+	font-weight:700;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-section-52{
+	background-color:#FFF;
+}
+.depicter-revert .depicter-1-element-47{
+	opacity:0.56;
+	background-color:#AAAAAA;
+}
+.depicter-revert .depicter-1-element-46{
+	background-color:#AAAAAA;
+}
+.depicter-revert .depicter-1-element-19{
+	font-size:13px;
+	text-align:center;
+	color:#ffffff;
+	font-family:"Raleway";
+	font-weight:600;
+	background-color:rgba(247, 134, 120, 0.01);
+	border-width:1px;
+	border-style:solid;
+	border-color:#ffffff;
+	border-radius:11px;
+}
+.depicter-revert .depicter-1-element-19:not(.depicter-hover-off){
+	transition:all ease 0.3s;
+}
+.depicter-revert .depicter-1-element-19:not(.depicter-hover-off):hover {
+	color:#000000;
+	background-color:#ffffff;
+}
+.depicter-revert .depicter-1-element-16{
+	font-size:16px;
+	color:#ffffff;
+	font-family:"Raleway";
+	font-weight:400;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-15{
+	font-size:25px;
+	color:#ffffff;
+	font-family:"Raleway";
+	font-weight:700;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-14{
+	font-size:60px;
+	color:#ffffff;
+	font-family:"Roboto";
+	font-weight:500;
+	line-height:100%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-section-12{
+	background-color:#FFF;
+}
+.depicter-revert .depicter-1-element-49{
+	font-size:16px;
+	color:#444444;
+	font-family:"Open Sans";
+	font-weight:300;
+}
+.depicter-revert .depicter-1-element-48{
+	font-size:38px;
+	color:#4980F5;
+	font-family:"Open Sans";
+	font-weight:600;
+}
+.depicter-revert .depicter-1-element-28{
+	font-size:13px;
+	text-align:center;
+	color:#000000;
+	font-family:"Raleway";
+	font-weight:600;
+	background-color:#F78678;
+	border-radius:20px;
+}
+.depicter-revert .depicter-1-element-28:not(.depicter-hover-off){
+	transition:all ease 0.3s;
+}
+.depicter-revert .depicter-1-element-28:not(.depicter-hover-off):hover {
+	color:#000000;
+	background-color:#ffffff;
+}
+.depicter-revert .depicter-1-element-25{
+	font-size:13px;
+	color:#ffffff;
+	font-family:"Raleway";
+	font-weight:400;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-24{
+	font-size:13px;
+	color:#ffffff;
+	font-family:"Raleway";
+	font-weight:700;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-23{
+	font-size:60px;
+	color:#ffffff;
+	font-family:"Roboto";
+	font-weight:500;
+	line-height:100%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-section-21{
+	background-color:#FFF;
+}
+
+/***** Tablet *****/
+@media screen and (max-width: 1024px){
+
+.depicter-1:not(.depicter-ready){
+	height:700px;
+}
+
+}
+/***** Mobile *****/
+@media screen and (max-width: 767px){
+
+.depicter-1:not(.depicter-ready){
+	height:740px;
+}
+.depicter-revert .depicter-1-element-64{
+	font-size:15px;
+	text-align:center;
+	color:#ffffff;
+	font-family:"Open Sans";
+	font-weight:700;
+	letter-spacing:5px;
+	direction:ltr;
+}
+.depicter-revert .depicter-1-element-61{
+	font-size:15px;
+	text-align:left;
+	color:#ffffff;
+	font-family:"Open Sans";
+	font-weight:300;
+}
+.depicter-revert .depicter-1-element-60{
+	font-size:30px;
+	text-align:left;
+	color:#ffffff;
+	font-family:"Open Sans";
+	font-weight:600;
+	line-height:118%;
+	text-transform:uppercase;
+	letter-spacing:21px;
+}
+.depicter-revert .depicter-1-element-54{
+	font-size:20px;
+	color:#ffffff;
+	font-family:"Raleway";
+	font-weight:700;
+	line-height:120%;
+}
+.depicter-revert .depicter-1-element-16{
+	font-size:11px;
+	text-align:center;
+	color:#ffffff;
+	font-family:"Raleway";
+	font-weight:400;
+	line-height:120%;
+}
+.depicter-revert .depicter-1-element-14{
+	font-size:40px;
+	text-align:center;
+	color:#ffffff;
+	font-family:"Roboto";
+	font-weight:500;
+	line-height:100%;
+	text-transform:capitalize;
+}
+.depicter-revert .depicter-1-element-25{
+	font-size:11px;
+	text-align:center;
+	color:#ffffff;
+	font-family:"Raleway";
+	font-weight:400;
+	line-height:120%;
+}
+.depicter-revert .depicter-1-element-23{
+	font-size:40px;
+	text-align:center;
+	color:#ffffff;
+	font-family:"Roboto";
+	font-weight:500;
+	line-height:100%;
+	text-transform:capitalize;
+}
+
+}

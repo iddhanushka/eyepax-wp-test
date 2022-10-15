@@ -1,0 +1,35 @@
+header {
+  position: absolute;
+  top: 0;
+  z-index: 1;
+  width: 100%;
+}
+
+.logo-link {
+  color: #babfc9;
+}
+
+.logo-link:hover {
+  color: #babfc9;
+  text-decoration: none;
+}
+
+.packers {
+  color: #fff;
+}
+
+footer {
+  text-align: center;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+  color: #fff;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.navbar-nav li:not(:last-child) {
+  margin-right: 10px;
+}
